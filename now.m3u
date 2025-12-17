@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="NOW英超1台" group-title="NOW",NOW英超1台
+http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+
+#EXTINF:-1 tvg-name="NOW爆谷台" group-title="NOW",NOW爆谷台
+http://23.237.228.133/live2/baogutai.m3u8
+
+#EXTINF:-1 tvg-name="NOW星影台" group-title="NOW",NOW星影台
+http://23.237.228.133/live2/xingyingtai.m3u8
+
 #EXTINF:-1 tvg-name="NOW新闻" group-title="NOW电视",NOW新闻台
 https://cdn.163189.xyz/163189/now
 
@@ -28,4 +37,5 @@ https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 http://bxtv.3a.ink/api.php?id=baogu
 
 #EXTINF:-1 tvg-name="NOW爆谷台双音轨" group-title="NOW电影",NOW爆谷台（双音轨）
+
 https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
